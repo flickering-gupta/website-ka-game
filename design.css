@@ -1,0 +1,17 @@
+*{
+    backface-visibility: visible;
+    background-color:floralwhite;
+}
+header {
+    font-style: italic;
+
+}
+nav{
+
+
+:hover {
+    color: aquamarine;
+text-shadow: 0cqw;
+    image-orientation: flip;
+}
+}
